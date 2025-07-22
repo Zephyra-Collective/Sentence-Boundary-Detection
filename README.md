@@ -132,7 +132,7 @@ The system provides an interactive entropy analysis that includes:
 
 ## 🧑‍💻 Authors
 
-- **Nishant V S** — Developer, NLP enthusiast  
+- **Zephyra Collective**   
   Feel free to reach out or contribute via pull requests.
 
 ---
